@@ -4,20 +4,37 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Floor
+  - MonsterTurn
+  - Monster
   - FallDetector
+  - Spike
+  - key
+  - door
   - Checkpoint
+  - Underground
+  - Rock
+  - Floor
+  - Boss
+  - level1-boss-door
+  - HealthBar
+  - Wall
+  - port2
+  - port
+  - Switch
+  - Root
+  - pCollider
+  - Fly
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Spikes
   - Water
   - UI
-  - Floor
-  - 
-  - 
-  - 
+  - Enemies
+  - Player
+  - InvulnerablePlayer
+  - Ground
   - 
   - 
   - 

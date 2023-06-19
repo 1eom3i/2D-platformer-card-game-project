@@ -6,6 +6,51 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main.unity
-    guid: 2b60ca61ca468b8408958464c1dca789
+    path: Assets/Scenes/MainMenu.unity
+    guid: 50c6daa51db7d405dabb1345cb5ab33f
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/tutorial.unity
+    guid: 26db65111f74d472784023f2f6b4b0ee
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/LoseScreenTutorial.unity
+    guid: 377b42e325e4c40aeb476783600ad61c
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/WinScreenTutorial.unity
+    guid: d311672038f5b49af99c9cb3bfa37ac2
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Level1.unity
+    guid: 388a29ab5c31dac4bb60894bceae63e1
+  - enabled: 1
+    path: Assets/Scenes/Level 1/LoseScreenLevel1.unity
+    guid: 93afa461ecfef714db3c0b7e27519502
+  - enabled: 1
+    path: Assets/Scenes/Level 1/WinScreenLevel1.unity
+    guid: 6f1a09f5595843a41ae72c0a04abd113
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Level2.unity
+    guid: fe74e232b7b25e24e93569e19fbe457b
+  - enabled: 1
+    path: Assets/Scenes/Level 2/LoseScreenLevel2.unity
+    guid: 6d7c169c6832c9d46a746934dc47ec1a
+  - enabled: 1
+    path: Assets/Scenes/Level 2/WinScreenLevel2.unity
+    guid: ea18227b086c8984b872500ea7b1adfd
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Level3.unity
+    guid: 6411ad59567f31f46b7d0e5c71320a02
+  - enabled: 1
+    path: Assets/Scenes/Level 3/LoseScreenLevel3.unity
+    guid: c99b4265a43a44f46bf0f8eae5683d05
+  - enabled: 1
+    path: Assets/Scenes/Level 3/WinScreenLevel3.unity
+    guid: 24c31d8f89b3e5a41ae63b4b81d78a26
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Level 4.unity
+    guid: 7d2bd8dc3afe51a4990c18fd71fe9f6a
+  - enabled: 1
+    path: Assets/Scenes/Level 4/WinScreenLevel4.unity
+    guid: 5685ca8c03ae85a4d9da71443adf9561
+  - enabled: 1
+    path: Assets/Scenes/Level 4/LoseScreenLevel4.unity
+    guid: 3691c0f14875d4a4b9e46e8cee3bcc38
   m_configObjects: {}
